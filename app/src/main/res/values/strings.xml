@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Registeration_PHPSQL</string>
+    <string name="user_name">Enter your name</string>
+    <string name="username">Enter your user name</string>
+    <string name="passowrd">Enter password</string>
+    <string name="email">Enter your email</string>
+    <string name="button_register">Register</string>
+</resources>
